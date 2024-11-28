@@ -32,11 +32,15 @@ REST: Mostrou-se robusto e eficiente em consultas simples, mas menos adaptável 
 Gráficos e métricas detalhadas estão disponíveis na seção de resultados do relatório.
 
 Como Reproduzir
+
 Configure uma instância Amazon EC2 com as especificações descritas.
+
 Clone este repositório:
-bash
-Copiar código
+
 git clone https://github.com/GustavoRiegert/LDS-graphQl-vs-rest.git
+
 Instale as dependências e execute os scripts de teste conforme instruções nos arquivos do repositório.
+
 Contribuições
+
 Sugestões e melhorias são bem-vindas! Sinta-se à vontade para abrir issues ou enviar pull requests.
