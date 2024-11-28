@@ -10,10 +10,10 @@ O objetivo do experimento é identificar as vantagens e limitações de cada abo
 Consultas Simples (Cenário 1):
 Consultas que retornam dados pequenos e específicos, simulando buscas rápidas e diretas.
 
-## Consultas Complexas (Cenário 2):
+Consultas Complexas (Cenário 2):
 Consultas que demandam retornos maiores e múltiplos relacionamentos, comuns em aplicações intermediárias.
 
-## Consultas Extensivas (Cenário 3):
+Consultas Extensivas (Cenário 3):
 Consultas que retornam um volume massivo de dados, simulando cenários extremos, como relatórios completos ou carregamento de dashboards.
 
 ## Ambiente de Teste
