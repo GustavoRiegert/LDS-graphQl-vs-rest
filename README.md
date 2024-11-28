@@ -1,5 +1,6 @@
 # LDS-graphQl-vs-rest
 Comparativo de Desempenho: GraphQL vs REST
+
 Este projeto apresenta um estudo comparativo entre GraphQL e REST, analisando desempenho em três cenários distintos de consultas. A análise considera métricas como tempo de execução e tamanho dos payloads em um ambiente de teste configurado para garantir reprodutibilidade.
 
 Objetivo
